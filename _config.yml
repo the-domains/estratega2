@@ -1,4 +1,3 @@
-layout_spectrum: 0.45857810578309
 typography_spectrum: 0.24235569452866912
 color:
   brandStrength: 0.7930752569809556
@@ -11,4 +10,6 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
+layout_spectrum: 0.45857810578309
 name: estratega2
+title: estratega
